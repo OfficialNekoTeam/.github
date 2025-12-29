@@ -10,7 +10,7 @@
 
 ## 官方文档 
 
-[点击这里进入我们的官方文档](https://docs.nekobot.dev)(AI,实际功能并未实现)
+[点击这里进入我们的官方文档](https://docs.nekobot.dev)(测试版本文档)
 
 ## 官方群聊
 
