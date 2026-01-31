@@ -15,8 +15,9 @@
 ---
 
 🌐 **组织域名**
-- gitneko.com   
-- nekobot.dev   
+- gitneko.com  
+- nekobot.dev
+- nekolook.com  
 
 📚 **NekoBot 文档**
 - https://docs.nekobot.dev  
