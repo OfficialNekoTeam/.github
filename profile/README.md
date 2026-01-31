@@ -1,4 +1,5 @@
 <div align="center">
+![](https://github.com/OfficialNekoTeam.jpg)
 
 # NekoTeam
 
