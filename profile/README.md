@@ -1,6 +1,6 @@
 <div align="center">
 
-![NekoTeam](https://github.com/OfficialNekoTeam.png)
+<img src="https://github.com/OfficialNekoTeam.png" alt="NekoTeam" width="120" />
 
 # NekoTeam
 
