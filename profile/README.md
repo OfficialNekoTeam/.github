@@ -2,7 +2,7 @@
 
 <img src="https://github.com/OfficialNekoTeam.png" alt="NekoTeam" width="120" />
 
-# 🐱 Neko Team
+# Neko Team
 
 </div>
 
