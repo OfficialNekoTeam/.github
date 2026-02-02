@@ -28,6 +28,8 @@
 - QQ
     - [Neko的猫猫窝(开发者群聊)](https://qm.qq.com/q/xW235wdw2c)
     - [Neko猫猫的大学 1群](https://qm.qq.com/q/cakIFXheeY)
+- QQ频道
+    - [Neko猫猫的小窝](https://pd.qq.com/s/de131bcm9)
 - 飞书
     - [开发者群聊](https://applink.feishu.cn/client/chat/chatter/add_by_link?link_token=3d2gb6d5-1044-4376-9d84-d3c207007fce)
     - [社区意见等提议](https://applink.feishu.cn/client/chat/chatter/add_by_link?link_token=f76s0727-817c-4105-888c-69e00ee36a27)
