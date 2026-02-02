@@ -8,13 +8,11 @@
 
 以 `Neko`命名的一系列开源项目，用 `AI Agent` 让一些想法到落地。
 
-**项目仓库声明**
+---
 
-📦 已将 GitHub 组织仓库所有权迁移并统一至一个组织，涉及组织包括 `GitNekoTeam` 与 `NekoBotTeam`。
+## 关于这个组织
 
-🚚 迁移完成后，原组织已删除。欢迎 ⭐ Star 本团队项目。
-
-🏠 `OfficialNeko Team` 为新组织，感谢这段时间以来的支持。
+已将 GitNekoTeam 与 NekoBotTeam 的仓库统一迁移至 OfficialNeko Team，原组织已删除。
 
 ---
 
@@ -40,4 +38,4 @@
 
 <div align="center">
 
-**如果本组织仓库项目对你有帮助，请给个 Star ⭐**
+**如果本组织仓库项目对你有帮助，欢迎前来 Star ⭐**
