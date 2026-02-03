@@ -18,6 +18,7 @@
 ---
 
 **归属于此组织域名**
+- nekoteam.cc
 - gitneko.com  
 - nekobot.dev
 - nekolook.com  
