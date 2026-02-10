@@ -23,7 +23,7 @@ Neko Team 是一个以 `AI Agent` 与 `Large Language Model` 为核心的开源�
 
 📚 **NekoBot**
 - [https://docs.nekobot.dev](https://docs.nekobot.dev)
-- [https://officialnekoteam.github.io (Github Page)](https://officialnekoteam.github.io)
+- [https://officialnekoteam.github.io (Github Pages)](https://officialnekoteam.github.io)
 - [https://nekobot-docs.vercel.app (Vercel)](https://nekobot-docs.vercel.app)
 
 **官方社群**
