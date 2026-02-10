@@ -6,16 +6,12 @@
 
 </div>
 
-以 `Neko` 命名的一系列开源项目，围绕 `AI Agent`、`Tools` 与 `Workflow`，
-将想法转化为**可组合、可扩展、可落地的系统能力**。
+以 `Neko` 命名的一系列开源项目，围绕 `AI Agent`，`Large Language Model`(简称LLM 俗称大语言模型), `创新想法` 等所展开。
+将一些 **创新** 一些 **想法** 转化为一些**可组合、可扩展、可落地的项目**。
 
 ---
 
 ## 关于这个组织
-
-已将 GitNekoTeam 与 NekoBotTeam 的仓库统一迁移至 OfficialNeko Team，原组织已删除。
-
----
 
 **归属于此组织域名**
 - nekoteam.cc
