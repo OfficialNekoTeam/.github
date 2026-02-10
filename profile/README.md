@@ -13,15 +13,18 @@ Neko Team 是一个以 `AI Agent` 与 `Large Language Model` 为核心的开源�
 
 ## 关于这个组织
 
-**归属于此组织域名**
+**本组织相关域名**
 - nekoteam.cc
 - gitneko.com  
 - nekobot.dev
 - nekolook.com  
 
-📚 **NekoBot 文档**
-- https://docs.nekobot.dev  
-- https://officialnekoteam.github.io/
+## 项目文档
+
+📚 **NekoBot**
+- [https://docs.nekobot.dev](https://docs.nekobot.dev)
+- [https://officialnekoteam.github.io (Github Page)](https://officialnekoteam.github.io)
+- [https://nekobot-docs.vercel.app (Vercel)](https://nekobot-docs.vercel.app)
 
 **官方社群**
 
@@ -36,6 +39,6 @@ Neko Team 是一个以 `AI Agent` 与 `Large Language Model` 为核心的开源�
 
 <div align="center">
 
-**如果本组织仓库项目对你有帮助，欢迎前来 Star ⭐或是参与项目贡献**
+**如果本组织仓库中的项目对你有帮助，欢迎前来 Star ⭐或是参与项目贡献**
 
 </div>
