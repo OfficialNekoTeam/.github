@@ -6,7 +6,7 @@
 
 </div>
 
-Neko Team 是一个以 `AI` `AI Agent` 与 `Large Language Model` 为核心的开源开发组织，旗下包含一系列以 `Neko` 命名的项目。
+Neko Team 是一个以 `AI` 、`AI Agent` 与 `Large Language Model` 为核心的开源开发组织，旗下包含一系列以 `Neko` 命名的项目。
 致力于将实验性的想法转化为 **可真实使用**、**可持续维护的项目**，以改善开发者与用户在日常使用中的体验。
 
 ---
